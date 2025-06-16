@@ -9,7 +9,8 @@
 
 ## 🎬 ¿Qué aprendimos esta semana?
 
-![GIF explicativo](https://drive.google.com/file/d/16WX8Xv2bcK--RYDUccNSjVGkKX4e7-2F/view?usp=drive_link)
+![GIF explicativo](https://drive.google.com/uc?export=view&id=16WX8Xv2bcK--RYDUccNSjVGkKX4e7-2F)
+
 
 Esta semana profundizamos en la estructura de datos **heap**, esencial para implementar colas de prioridad y algoritmos de ordenamiento eficiente. Entre los puntos clave:
 
